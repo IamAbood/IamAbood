@@ -14,8 +14,7 @@
 - 🌱 Currently learning **Three.js, Java (SpringBoot), Machine Learning**  
 - 💬 Ask me about **C#, React, HTML, CSS, JavaScript, SDLC, Business Development**  
 - 👨‍💼 Soon launching my portfolio: [AbdulkareemAlsaou.online](https://www.abdulkareemalsaou.online)  
-- 📫 Reach me at: **abdulkareem_alsaou@outlook.com**  
-- 🎲 Fun fact: I once debugged a bug by accidentally fixing it.
+- 📫 Reach me at: **abdulkareem_alsaou@outlook.com**
 
 ---
 
